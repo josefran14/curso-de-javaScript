@@ -1,4 +1,4 @@
-let figura=prompt("Introuduce la figura")
+let figura=prompt("Introduce la figura")
 
 let base
 let altura
