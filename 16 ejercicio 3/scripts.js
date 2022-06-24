@@ -7,16 +7,15 @@ numero con el mensaje es "par" o es "impar"
   4 - es par
   5 - es impar */
 
+let number = prompt("Ingrese un numero ");
 
-   let number=prompt("Introduce un numero")
-
-   for (let i=0;i<=number; i++){
-    if(i%2==0){
-        console.log(`${i} es par`)
-   }        else{
-             console.log(`${i} es impar`)
-      }
-   }
+ for (let i=0;i<=number; i++){
+  if(i%2==0){
+      console.log(`${i} es par`)
+ }        else{
+           console.log(`${i} es impar`)
+    }
+ }
 
 
 //   let number=prompt("Introduce un numero")
