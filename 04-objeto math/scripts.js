@@ -11,6 +11,7 @@ Metodos:
   Math.cell(x) Devuelve el entero mas pequeño mayor o igual que un numero
   Math.floor(x) Devuelve el entero mas grande menor o igual que un numero
   Math.pow(x,y) Devuelve la potencia de x elevado a y
+  Math.sqrt(x) Devuelve la raiz cuadrada de x
   Math.randoom() Genera un numero pseudoaleatorio entre 0 y 1
   Math.round(x) Devuelve el valor de un numero redondeado al entero mas cercano
   Math.sign(x) Devuelve el signo de la x, que indica si x es positivo, negativo o cero*/
