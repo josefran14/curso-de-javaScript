@@ -17,7 +17,7 @@
        text(): se utiliza cuando queremos leer un archivo de texto. Siempre se codifica en
        utf-8
 
-         Comprobacion de soporte fetch
+        // Comprobacion de soporte fetch
         if(window.fetch != undefined) console.log("FETCH OK");
      else console.log("FETCH NO WORK!");
 */
