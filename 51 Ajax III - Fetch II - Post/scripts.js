@@ -1,3 +1,17 @@
+/*
+   Fetch Api
+       Para hacer peticiones post, fetch admite un segundo parametro
+       fetch(url,{
+        method: "post",
+        body: los datos que enviamos. si es un objeto hay que 
+        convertirlo con json.stringify(datos)
+        headers: {
+            cabeceras de informacion sobre lo que estamos envaindo
+        }
+       })
+
+*/
+
 const button = document.getElementById("button")
 
 button.addEventListener("click", () =>{
